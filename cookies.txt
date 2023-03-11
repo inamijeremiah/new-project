@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+legalfx.net	TRUE	/	FALSE	1999999999	CameFrom	deleted
+legalfx.net	TRUE	/	FALSE	1999999999	PHPSESSID	on49pooeiptld107aj75edilp2
+
